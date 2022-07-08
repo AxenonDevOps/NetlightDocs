@@ -9,6 +9,7 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 .vscode
+builddir/
 
 # IPython
 profile_default/
